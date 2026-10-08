@@ -58,6 +58,8 @@ To replicate this project on your local machine, follow these steps:
    git clone [YOUR_GITHUB_REPO_LINK]
    cd E-commerce_Transactions_Medallion_Pipeline
 
+   add configuration in .env file based on env.example file. 
+
 
 About Me
 Hi, I'm Shubham Tyagi, a Data Engineer/Analyst passionate about building robust data pipelines and transforming complex datasets into actionable business insights.
