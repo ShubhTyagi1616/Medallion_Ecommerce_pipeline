@@ -64,6 +64,6 @@ Hi, I'm Shubham Tyagi, a Data Engineer/Analyst passionate about building robust 
 
 LinkedIn: [https://www.linkedin.com/in/shubhamtyagi16/]
 
-GitHub: []
+GitHub: [https://github.com/ShubhTyagi1616/Medallion_Ecommerce_pipeline]
 
 Email: [shubhamvatstyagi7@gmail.com]
