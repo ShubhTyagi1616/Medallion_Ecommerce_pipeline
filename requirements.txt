@@ -1,0 +1,7 @@
+polars
+pandas
+requests
+python-dotenv
+streamlit
+plotly
+databricks-sdk

@@ -1,0 +1,31 @@
+# Sensitive Credentials
+.env
+
+# Data Folders (Raw and Processed)
+data/
+*.csv
+*.parquet
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit Cache
+.streamlit/
+!config.toml
+
+# IDE and OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
